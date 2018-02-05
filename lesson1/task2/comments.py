@@ -1,6 +1,6 @@
-#este el comentario para el archivo
-print("hola") #este comentario es para la segunda linea
+# Este es el comentario para el archivo comments.py
+print("Hola!")  # Este comentario es para la segunda línea
 
 
-print("este no es un comentario")
-#este es un comentario
+print("# esto no es un comentario")
+# esto es un comentario
